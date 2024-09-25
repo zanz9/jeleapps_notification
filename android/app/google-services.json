@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795028359847",
+    "project_id": "jeleapps-notification",
+    "storage_bucket": "jeleapps-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795028359847:android:beff81b3946f959df16982",
+        "android_client_info": {
+          "package_name": "com.zanz.jeleapps.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQl3ez_iRQCt_TaIgrmwlK7_WyOPp3vJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
